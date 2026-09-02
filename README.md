@@ -1,1 +1,0 @@
-# quicopt.r-universe.dev
